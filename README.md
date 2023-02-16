@@ -1,6 +1,7 @@
 # Example app for CI Hexlet course
 
-![Node Build](https://github.com/seddor/hexlet-ci-app/actions/workflows/node.yml/badge.svg)
+![Node](https://github.com/seddor/hexlet-ci-app/actions/workflows/node.yml/badge.svg)
+![Snyk](https://github.com/seddor/hexlet-ci-app/actions/workflows/snyk.yml/badge.svg)
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
 
